@@ -1,4 +1,4 @@
-package Andersen;
+package Andersen.DualLinkedList;
 
 public class Main {
 

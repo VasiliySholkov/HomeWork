@@ -1,4 +1,4 @@
-package Andersen;
+package Andersen.DualLinkedList;
 
 import com.sun.org.apache.xalan.internal.lib.NodeInfo;
 
